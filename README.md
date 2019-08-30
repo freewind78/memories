@@ -1,2 +1,2 @@
 # memories
-studying and memoies
+studying and memories
